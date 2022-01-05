@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rechtliches on bawue.net</title>
+    <link>https://www.bawue.net/rechtliches/</link>
+    <description>Recent content in Rechtliches on bawue.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://www.bawue.net/rechtliches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://www.bawue.net/rechtliches/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bawue.net/rechtliches/datenschutz/</guid>
+      <description>Vorwort Bawue.Net ist ein Internetprovider. Dies bedeutet wir bieten Internetzugänge und Internetdienste an. Wir sind kein Adresshändler oder sonstwie daran interessiert, unnötig Daten zu sammeln. Alle Kundendaten die wir haben, sind notwendig um unsere Dienste zu erbringen und abzurechnen.
+Alle anderen Daten die wir erfassen, sind zur Sicherstellung unserer Dienstqualität und zur Fehlersuche notwendig.
+Diese Daten sind im allgemeinen nicht personenbezogen, sondern sind technische Identifierzungsmerkmale wie z.B. eine IP Adresse, eine Message-ID einer Mail etc.</description>
+    </item>
+    
+    <item>
+      <title>Die BaWue-Net Nutzungsordnung</title>
+      <link>https://www.bawue.net/rechtliches/nutzungsordnung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bawue.net/rechtliches/nutzungsordnung/</guid>
+      <description>Jeder BaWue-Net Teilnehmer erhält im Rahmen der technischen Möglichkeiten Zugang auf die Computersysteme des Vereins und wird über diesen Zugang mit Internetdiensten (Email, News, Domains, IP, etc.) versorgt, wie sie in der jeweils aktuellen Leistungsbeschreibung des BaWue-Net aufgeführt sind. Voraussetzung hierzu ist die schriftliche Anerkennung dieser Nutzungsordnung.
+  Die Nutzung aller angebotenen Dienste ist nur für private Zwecke gestattet. Die über die Systeme des BaWue-Net ausgetauschten Daten sind nur für den privaten Gebrauch des Teilnehmers bestimmt.</description>
+    </item>
+    
+    <item>
+      <title>Nutzungsordnung Domain-Hosting</title>
+      <link>https://www.bawue.net/rechtliches/domains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bawue.net/rechtliches/domains/</guid>
+      <description>Jeder BaWue-Net-Teilnehmer hat die Möglichkeit, Domains beim BaWue-Net hosten zu lassen. Voraussetzung hierzu ist die Anerkennung der Nutzungsordnung für das Domain-Hosting, die dem BaWue-Net unterschrieben zurückzusenden ist.
+  Das BaWue-Net bietet seinen Teilnehmern die Registrierung und das Hosting von Domains an. Das Hosting von Domains ist also eine zusätzliche Dienstleistung, die die Teilnahme am BaWue-Net voraussetzt. Welche Top-Level-Domains im einzelnen angeboten werden, kann bei den Domain-Administratoren des BaWue-Net erfragt werden.</description>
+    </item>
+    
+  </channel>
+</rss>
